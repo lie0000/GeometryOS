@@ -1,0 +1,17 @@
+{
+    "guestSystemVersion":"ANDROID_9",
+    "isMultiInstance":true,
+    "hasGooglePlay":false,
+    "hasRoot":false,
+    "hasXposed":false,
+    "supportGooglePlay":true,
+    "supportRoot":true,
+    "supportXposed":false,
+    "useHostBattery1":true,
+    "nsdk": true,
+    "halver": 2,
+    "supportAbis": "arm,arm64",
+    "requiredEngineType":"YLINKER",
+    "minEngineVersion":216,
+    "romVersion": 10068
+}
